@@ -2,7 +2,7 @@
 
 A fully connected neural network built in PyTorch with a 784 -> 128 -> 10 architecture that classifies Fashion-MNIST clothing images into 10 categories.
 
-**Test accuracy is 88.7%**
+**Test accuracy is 89.4%**
 
 See [`Ridwan_Project09.ipynb`](Ridwan_Project09.ipynb) for the full workflow including data exploration, preprocessing, training curves, the confusion matrix, per-class precision and recall and error analysis. The task brief is in [`PROJECT.md`](PROJECT.md).
 
@@ -27,4 +27,4 @@ datasets/
 └── fashion-mnist_test.csv
 ```
 
-Then open the notebook and run all cells (about 2 minutes on a CPU).
+Then open the notebook and run all cells (about 15 minutes on a CPU).
